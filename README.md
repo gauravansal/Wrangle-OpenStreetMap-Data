@@ -24,3 +24,10 @@ Then import the cleaned .csv file(s) into a SQL database using this [schema](htt
 
 #### Explore the Database
 After building our local database we’ll explore the data by running queries.
+
+**NOTE**
+- When opening ipython notebook on github, github might fail to load it correctly on github viewer, please use Juypter NBViewer: http://nbviewer.jupyter.org/github/gauravansal/Wrangle-OpenStreetMap-Data/blob/master/Wrangle%20OpenStreetMap%20Data.ipynb to see the full ipython notebook for the project.
+- OSM posted in this github is a small portion of large MAPZEN OSM data(around 300 MB), while this sample OSM is about 8 MB in size.
+
+
+
